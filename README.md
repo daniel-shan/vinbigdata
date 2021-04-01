@@ -50,3 +50,5 @@ I trained a two class classifer primarily to remove false positives.  However, t
 3. [@awsaf49 YOLO labels](https://www.kaggle.com/awsaf49/vinbigdata-yolo-labels-dataset) 
 4. [@ZFTurbo WBF implementation](https://github.com/ZFTurbo/Weighted-Boxes-Fusion)
 5. [@awsaf two class filter](https://www.kaggle.com/awsaf49/vinbigdata-2class-prediction)
+6. [YOLOv5](https://github.com/ultralytics/yolov5)
+7. [VarifocalNet](https://github.com/hyz-xmaster/VarifocalNet)
