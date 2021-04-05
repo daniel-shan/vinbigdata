@@ -1,5 +1,5 @@
 # VinBigData Chest X-ray Abnormalities Detection
-This is my solution for the [VinBigData Chest X-ray Abnormalities Detection](https://www.kaggle.com/c/vinbigdata-chest-xray-abnormalities-detection) competition hosted on Kaggle.  This solution placed 36th (out of 1329) with a final evaluation metric of .270 mAP.
+This is my solution for the [VinBigData Chest X-ray Abnormalities Detection](https://www.kaggle.com/c/vinbigdata-chest-xray-abnormalities-detection) competition hosted on Kaggle.  This solution placed 35th (out of 1277) with a final evaluation metric of .270 mAP.
 
 ## Overview
 Overall, the solution is simple.  Two VFNet models and two YOLOv5 models were trained to detect abnormalities.  The predictions were then aggregated and passed through a two-class "Finding / No Finding" classifier to remove false positives.
